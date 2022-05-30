@@ -1,0 +1,90 @@
+{
+  "main": {
+    "name":"Colin Jackson",
+    "description":"I am a Software Engineer that has a love of code and complex problem solving if you want to get to know me more check out the rest of my portfolio",
+    "image":"pic.JPEG",
+    "bio":"Hey i'm Colin, a software engineer who loves the programming process. I love to solve complex problems and implement solutions that are quick and effective. I am a quick learner and am always wanting to expand my knowledge through challenges and learning through my mistakes. Everyday i strive to improve and am ready to face any obstacles that comes my way.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Colingrey412@gmail.com",
+    "phone": "916-582-7394",
+    "github":"https://github.com/Jackson916",
+    "project":"https://github.com/Jackson916",
+    "address":{
+      "city":"Boone",
+      "state":"North Carolina",
+      "zip": "28607"
+    },
+    "resumedownload":"https://docs.google.com/document/d/101AM4KxOTQdz2zRZ-qEyFFSiEn5W-MpdJqsv1eEE0bE/edit",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/colin-jackson-513099231/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Jackson916",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Hi, so far through my learning this is what i have achieved",
+    "education":[
+      {
+        "school":"General Assembly",
+        "Certificate":"Software Engineering",
+        "graduated":"May 2022",
+        "description":"Creating Full Stack applications using technologies such as React and Node.js."
+      }
+    ],
+    "work":[
+      {
+        "company":"Army National Guard",
+        "title":"Small arms & Artillery Repairer (91F) ",
+        "years":"June 2016 - Present",
+        "description":"Maintain and repair firearms from 9mm to .50 cal"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+        {
+        "name":"Node.js",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ReChat",
+        "category":"A RealTime Chat App",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"H.U.W",
+        "category":"Military Packing List",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Tic-Tac-Toe",
+        "category":"Local tic-tac-toe game",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
