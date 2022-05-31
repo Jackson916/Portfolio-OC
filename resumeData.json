@@ -70,20 +70,20 @@
       {
         "title":"ReChat",
         "category":"A RealTime Chat App",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"1.jpg",
+        "url":"https://mosaco-group.github.io/chat-app-react-front/"
       },
       {
         "title":"H.U.W",
         "category":"Military Packing List",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"2.jpg",
+        "url":"https://jackson916.github.io/HUW-Client/"
       },
       {
         "title":"Tic-Tac-Toe",
         "category":"Local tic-tac-toe game",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"3.jpg",
+        "url":"https://jackson916.github.io/Tic-Tac-Toe-ColinJackson/"
       }
     ]
   }
